@@ -1,0 +1,19 @@
+aws:
+  regions:
+    - us-east-1
+    - us-west-2
+  
+analysis:
+  lookback_days: 90
+  coverage_threshold: 80
+  utilization_threshold: 75
+
+notifications:
+  enabled: true
+  smtp_host: smtp.gmail.com
+  smtp_port: 587
+  from_email: finops@company.com
+  
+tags:
+  team_tag: Team
+  environment_tag: Environment
