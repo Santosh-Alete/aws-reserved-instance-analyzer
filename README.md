@@ -214,6 +214,6 @@ MIT License
 
 ## Author
 
-Santosh Sreenivasulu  
+Santosh Alete  
 Cloud FinOps Engineer  
-[LinkedIn](https://linkedin.com/in/santosh-alete) | [GitHub](https://github.com/santosh-alete)
+[LinkedIn](https://www.linkedin.com/in/santosh-r-alete-09260a27b/) | [GitHub](https://github.com/Santosh-Alete)
